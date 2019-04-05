@@ -1,0 +1,12 @@
+{
+  "name": "login-firebase",
+  "version": "1.0.0",
+  "description": "Aplicación de pruebas para firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mitarcon <mitarcon@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
